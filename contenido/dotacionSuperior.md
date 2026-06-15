@@ -16,11 +16,11 @@ Aunque presentan un alto potencial, también requieren apoyos educativos especí
  - Intereses profundos en temas específicos.
  - Alta sensibilidad emocional en algunos casos. 
 ## Tipos
- - Superdotación Intelectual: alto rendimiento en diversas áreas cognitivas.
- - Talento Académico: habilidades sobresalientes en áreas escolares específicas.
- - Talento Artístico: capacidades excepcionales en arte, música o expresión creativa.
- - Talento Matemático o Científico: destacadas habilidades lógico-matemáticas y científicas.
- - Talento Social o de Liderazgo: capacidad para dirigir, influir y trabajar con otros.
+ - **Superdotación Intelectual:** alto rendimiento en diversas áreas cognitivas.
+ - **Talento Académico:** habilidades sobresalientes en áreas escolares específicas.
+ - **Talento Artístico:** capacidades excepcionales en arte, música o expresión creativa.
+ - **Talento Matemático o Científico:** destacadas habilidades lógico-matemáticas y científicas.
+ - **Talento Social o de Liderazgo:** capacidad para dirigir, influir y trabajar con otros.
 ## Estrategias
  - Proporcionar actividades de enriquecimiento curricular.
  - Fomentar proyectos de investigación acordes a sus intereses.
@@ -28,3 +28,10 @@ Aunque presentan un alto potencial, también requieren apoyos educativos especí
  - Adaptar el nivel de dificultad de las tareas.
  - Favorecer la participación en concursos y actividades extracurriculares.
  - Brindar apoyo socioemocional cuando sea necesario.
+## Dinamicas
+ - Ajedrez.
+ - Juegos de estrategia y lógica.
+ - Escape rooms educativos.
+ - Retos matemáticos y científicos.
+ - Construcciones con bloques o robótica educativa.
+ - Juegos de resolución de problemas y acertijos complejos.

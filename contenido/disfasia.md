@@ -1,11 +1,11 @@
 ---
 titulo: "Disfasia"
-descripcion: "dificultad de compresion y/0 expresion oral"
+descripcion: "Dificultad de compresion y/0 expresion oral"
 categoria: "aprendizaje"
 icono: "MessageCircleMore"
 color: "#9FA1FF"
 ---
-es una alteración del lenguaje que dificulta la comprensión y/o la 
+Es una alteración del lenguaje que dificulta la comprensión y/o la 
 expresión verbal. El niño o la niña presenta problemas significativos para adquirir y 
 utilizar el lenguaje oral, a pesar de tener audición adecuada y un nivel intelectual que no 
 explica por sí solo la dificultad.
@@ -25,3 +25,9 @@ explica por sí solo la dificultad.
  - Reforzar el lenguaje mediante imágenes. 
  - Leer cuentos de forma interactiva. 
  - Ampliar progresivamente el vocabulario.
+## Dinamicas
+ - Lotería de imágenes. 
+ - ¿Qué es y para qué sirve? 
+ - Cuentos con imágenes. 
+ - Adivinanzas. 
+ - Simón dice.

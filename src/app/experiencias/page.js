@@ -31,7 +31,7 @@ export default function Experiencias() {
     return(
         <section className="min-h-screen py-20">
             <div className="max-w-7xl mx-auto px-6">
-                <Topico titulo={"Historias que nos unen"} descripcion={"Experierncias reales de personas en su camino hacia el nienestar"} />
+                <Topico titulo={"Historias que nos unen"} descripcion={"Experierncias reales de personas en su camino hacia el bienestar"} />
                 <motion.button
                     onClick={() => setIsModalOpen(true)}
                     className="fixed bottom-8 right-8 w-14 h-14 bg-accent text-accent-foreground rounded-full shadow-lg flex items-center justify-center hover:scale-110 transition-transform z-50"

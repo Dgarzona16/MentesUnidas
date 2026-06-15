@@ -1,11 +1,11 @@
 ---
 titulo: "Disgrafia"
-descripcion: "dificultad para escribir de forma correcta"
+descripcion: "Dificultad para escribir de forma correcta"
 categoria: "aprendizaje"
 icono: "NotebookPen"
 color: "#81A6C6"
 ---
-trastorno específico del aprendizaje que afecta principalmente la 
+Trastorno específico del aprendizaje que afecta principalmente la 
 capacidad para producir escritura de manera correcta, legible y organizada. No se trata 
 simplemente de “tener mala letra”, sino de una dificultad persistente relacionada con los 
 procesos motores, perceptivos y cognitivos implicados en la escritura. 
@@ -18,8 +18,8 @@ procesos motores, perceptivos y cognitivos implicados en la escritura.
  - Errores frecuentes en copia y dictado. 
  - Dificultad para organizar ideas por escrito. 
 ## Tipos
- - Disgrafía Motriz: dificultades en la coordinación motora fina necesaria para escribir. 
- - Disgrafía Específica: dificultades en la percepción, orientación espacial y 
+ - **Disgrafía Motriz:** dificultades en la coordinación motora fina necesaria para escribir. 
+ - **Disgrafía Específica:** dificultades en la percepción, orientación espacial y 
 representación gráfica de las letras. 
 ## Estrategias
  - Realizar ejercicios de motricidad fina. 
@@ -27,4 +27,11 @@ representación gráfica de las letras.
  - Practicar trazos y grafomotricidad. 
  - Emplear hojas con pautas o cuadrículas. 
  - Permitir más tiempo para actividades escritas. 
- - Reforzar positivamente los avances. 
+ - Reforzar positivamente los avances.
+## Dinamicas
+ - Laberintos. 
+ - Unir los puntos. 
+ - Moldeado con plastilina. 
+ - Recortar figuras. 
+ - Copia de dibujos. 
+ - Juego de enhebrar cuentas.

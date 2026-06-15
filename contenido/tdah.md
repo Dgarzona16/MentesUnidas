@@ -16,12 +16,9 @@ desorganización. Impulsividad al actuar o responder. Inquietud motora o necesid
 movimiento. Dificultades en el rendimiento académico y social
 
 ## Tipos
-- TDAH Predominantemente Inatento
-    - Presenta principalmente dificultades de atención, concentración y organización.
-- TDAH Predominantemente Hiperactivo-Impulsivo
-    - Predominan la inquietud motora, impulsividad y dificultad para esperar turnos.
-- TDAH Combinado
-    - Incluye síntomas significativos tanto de inatención como de hiperactividad e impulsividad
+- **TDAH Predominantemente Inatento:** Presenta principalmente dificultades de atención, concentración y organización.
+- **TDAH Predominantemente Hiperactivo-Impulsivo:** Predominan la inquietud motora, impulsividad y dificultad para esperar turnos.
+- **TDAH Combinado:** Incluye síntomas significativos tanto de inatención como de hiperactividad e impulsividad
 
 ## Estrategias
 Establecer rutinas claras y predecibles. Utilizar instrucciones breves, concretas y paso a paso.
@@ -31,3 +28,9 @@ recordatorios.
 Permitir pausas activas entre actividades. Fomentar habilidades de organización y planificación.
 Promover la comunicación entre familia, docentes y profesionales. Adaptar las actividades según
 las necesidades del estudiante
+
+## Dinamicas
+ - **Simón Dice:** Favorece la atención, escucha activa y control de impulsos.
+ - **Memorama:** Estimula la memoria de trabajo y la concentración.
+ - **Búsqueda del Tesoro:** Permite desarrollar atención sostenida y seguimiento de instrucciones
+ - **Semáforo de las Emociones:** Ayuda a identificar emociones y mejorar el autocontrol
